@@ -1,2 +1,2 @@
-# Credit-Risk-Analysis
-DQLAB Data Science in Finance: Credit Risk Analysis
+I share what i learn on DQLAB.
+DQLAB teach me about SQL, R and Python 
